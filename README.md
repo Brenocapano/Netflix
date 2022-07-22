@@ -15,3 +15,6 @@ Recriação da interface principal da Netflix usando HTML5, CSS3 e JavaScript. N
 
 -- CSS3 Flexbox
 
+
+![image](https://user-images.githubusercontent.com/29673433/180571850-c5e385ec-bd43-4be7-9661-addab3cbc627.png)
+
