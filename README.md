@@ -1,11 +1,11 @@
-# Recriação de interface da Netflix
+# Criiação de innterface de serviço de streaming semelhante à Netflix
 
 - HTML5, CSS3 e JS.
 - Biblioteca utilizada: Jquery OWL carrosel.
 
 ## Detalhes
 
-Recriação da interface principal da Netflix usando HTML5, CSS3 e JavaScript. Nesse projeto foi realizada estruturação de layout, técnicas de CSS3, aprendizagem do uso de FlexBox e utilização de plugins Jquery.
+Projeto realizado utilizando HTML5, CSS3 e JavaScript. Nesse projeto foi realizada estruturação de layout, técnicas de CSS3, aprendizagem do uso de FlexBox e utilização de plugins Jquery.
 
 ## Funcionalidades
 
