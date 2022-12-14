@@ -1,4 +1,4 @@
-# Criiação de innterface de serviço de streaming semelhante à Netflix
+# Criação de innterface de serviço de streaming semelhante à Netflix
 
 - HTML5, CSS3 e JS.
 - Biblioteca utilizada: Jquery OWL carrosel.
